@@ -4,13 +4,14 @@
   <a href="https://github.com/mrakmondal6612">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ankan+Bera.....;Nice+To+Meet+You+....&center=true"></a>
 </p>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan-b10&label=Profile%20views&color=0e75b6&style=flat" alt="ankan-b10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ankanbera2003" target="blank"><img src="https://img.shields.io/twitter/follow/ankanbera2003?logo=twitter&style=for-the-badge" alt="ankanbera2003" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Bootstrap, DSA**
+- 🌱 I’m currently learning **DSA, Web3**
 
 - 📫 How to reach me **beraankan8@gmail.com**
 
