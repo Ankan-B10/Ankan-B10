@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankan Bera</h1>
 <p align="center">
   <a href="https://github.com/mrakmondal6612">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ajay+Mondal.....;Nice+To+Meet+You+....&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ankan+Bera.....;Nice+To+Meet+You+....&center=true"></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
