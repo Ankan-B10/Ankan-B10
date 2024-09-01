@@ -168,7 +168,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankan-b10&" alt="ankan-b10" /></p>
 </br>
 <p align="center">
-<a href="https://https://www.linkedin.com/in/ankan-bera-8a2920244//" target="blank">
+<a href="https://www.linkedin.com/in/ankan-bera-8a2920244//" target="blank">
   <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" alt="About Me GIF" width="180px">      
 </a></p>
 
