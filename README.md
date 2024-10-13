@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Gaurav26Singh/Gaurav26Singh/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://AnkanBera.io)
-<h1 align="center">Hi 👋, I'm Ankan Bera</h1>
+<h1 align="center">Welcome 😊</h1>
 <p align="center">
   <a href="https://github.com/mrakmondal6612">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ankan+Bera.....;Nice+To+Meet+You+....&center=true"></a>
@@ -178,7 +178,7 @@
 <!--![views since 2023/05/14](https://visitor-badge-deno.deno.dev/ankan-b10.ankan-b10.svg)-->
 
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />
+<!--!<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />-->
 <div display="filex">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
