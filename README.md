@@ -179,6 +179,18 @@
 
 
 <!--!<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />-->
+# <a href="https://leetcode.com/u/Ankan_bera_1783/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="30"/></a> Leetcode Info 
+<br>
+<div align="center">
+
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Ankan_bera_1783?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+<br>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Ankan_bera_1783&theme=black&font=Nunito&ext=heatmap" />
+</div>
 <div display="filex">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
