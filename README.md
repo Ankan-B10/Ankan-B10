@@ -175,10 +175,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankan-b10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!--![views since 2023/05/14](https://visitor-badge-deno.deno.dev/ankan-b10.ankan-b10.svg)-->
+![views since 2023/05/14](https://visitor-badge-deno.deno.dev/ankan-b10.ankan-b10.svg)
 
 
-<!--!<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />-->
+<!--<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />-->
 # <a href="https://leetcode.com/u/Ankan_bera_1783/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="30"/></a> Leetcode Info 
 <br>
 <div align="center">
@@ -189,7 +189,7 @@
 
 <br>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Ankan_bera_1783&theme=black&font=Nunito&ext=heatmap" />
+<!--<img src="https://leetcode-badge-showcase.vercel.app/api?username=Ankan_bera_1783&theme=black&font=Nunito&ext=heatmap" />-->
 </div>
 <div display="filex">
 <div align="center">
