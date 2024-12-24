@@ -148,10 +148,10 @@
   </a> -->
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" alt="node" width="60" height="50"/>
-<!--   </a>
+ </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="60" height="50"/>
-  </a> -->
+  </a> 
 </p>
 </div>
 
@@ -178,14 +178,10 @@
 <!--![views since 2023/05/14](https://visitor-badge-deno.deno.dev/ankan-b10.ankan-b10.svg)-->
 
 
-<!--<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />-->
+<!--!<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />
 <!--# <a href="https://leetcode.com/u/Ankan_bera_1783/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="30"/></a> Leetcode Info 
 <br>
-<div align="center">
-
-<p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Ankan_bera_1783?theme=dark&font=Nunito&ext=heatmap" />  
-</p>-->
+<div align="center">-->
 
 <br>
 
