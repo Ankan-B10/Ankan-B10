@@ -168,15 +168,14 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 <h1 align="center"> 📊 GitHub Stats: </h1>
-<div align="center" width="50%">
 
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankan-b10&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-<div>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?username=ankan-b10&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=ankan-b10&theme=radical&_border=false&include_all_commits=true&count_private=true)
-  </div>
-</div>
+ -->
+ 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan-b10&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan-b10&theme=github_dark"  />
