@@ -17,20 +17,25 @@
 
 - ⚡ Fun fact **I think I am funny sometimes.**
 
-# 🤝 Connect with me:
-<p align="left">
-<a href="https://linktr.ee/Ankan10" target="blank"><img align="center" src="https://ugc.production.linktr.ee/54520076-59d8-4151-8e3e-a7ea99876071_ident-canopy.gif?io=true&size=avatar-v3_0" width="40" /></a>
-<a href="https://twitter.com/ankanbera2003" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="ankanbera2003" width="40" /></a>
-<a href="https://linkedin.com/in/ankan-bera-8a2920244" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="ankan-bera-8a2920244" width="40" /></a>
-<a href="https://instagram.com/ankanbera10" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="ankanbera10" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/Ankan_bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankan_bera" height="30" width="40" /></a> -->
-<a href="https://auth.geeksforgeeks.org/user/beraanvttt" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="beraanvttt" width="40" /></a>
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h1 align="center" >🤝 Connect with me:</h1>
+<p align="center">
+<a href="https://twitter.com/ankanbera2003" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Ajay" width="150" /> </a>
+<a href="https://linkedin.com/in/ankan-bera-8a2920244" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="ajay" width="160" />
+<a href="https://instagram.com/ankanbera10" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="ajay" width="150" />
+<a href="https://auth.geeksforgeeks.org/user/beraanvttt" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="beraanvttt" width="100" /></a>
 </p>
 
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<br>
 
-# 🖥️ Technical Skills:
-<div>
+<h1 align="center"> 🖥️ Technical Skills: </h1>
+<img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
+<!-- <div>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="40" />
@@ -50,7 +55,7 @@
 <!--   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a> -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -58,7 +63,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
+  </a> -->
   <!-- <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a> -->
@@ -71,21 +76,21 @@
   <!-- <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
   </a> -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>
+  </a> -->
   <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a> -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<!--   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+  </a> -->
   <!-- <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a> -->
@@ -104,21 +109,21 @@
 <!--   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="developerandroid" width="40" height="40"/>
   </a> -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>
+  </a> -->
   <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a> -->
 <!--   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1200px-Kali-dragon-icon.svg.png" alt="linux" width="50" height="50"/>
   </a> -->
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+  </a> -->
   <!-- <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a> -->
@@ -128,12 +133,12 @@
   <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a> -->
-  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
+  </a> -->
 <!--   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a> -->
@@ -146,31 +151,39 @@
 <!--     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://www.factfc.com/wp-content/uploads/2024/04/express-js.png" alt="express" width="60" height="40"/>
   </a> -->
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+<!--   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" alt="node" width="60" height="50"/>
  </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="60" height="50"/>
   </a> 
 </p>
-</div>
+</div> --> 
 
 <!--
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 -->
-</br>
+<br>
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
+<h1 align="center"> 📊 GitHub Stats: </h1>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan-b10&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan-b10&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan-b10&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankan-b10&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankan-b10&theme=github_dark" />
+</div>
+<br>
 
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankan-b10&show_icons=true&locale=en&layout=compact" alt="ankan-b10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankan-b10&show_icons=true&locale=en" alt="ankan-b10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankan-b10&" alt="ankan-b10" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankan-b10&" alt="ankan-b10" /></p>
 </br>
 <p align="center">
 <a href="https://www.linkedin.com/in/ankan-bera-8a2920244//" target="blank">
   <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" alt="About Me GIF" width="180px">      
 </a></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankan-b10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
