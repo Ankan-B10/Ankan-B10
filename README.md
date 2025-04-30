@@ -1,4 +1,7 @@
-[![MasterHead](https://github.com/Gaurav26Singh/Gaurav26Singh/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://AnkanBera.io)
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/b53a4630-3232-41c2-b7b6-ab480ee9a616)
+
+<!--[![MasterHead](240304586-d48893bd-0757-481![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/3f3ac307-0050-43eb-b963-6356ede60e92)
+c-8d7e-ba3e163feae7.png)](https://AnkanBera.io)-->
 <h1 align="center">Welcome 😊</h1>
 <p align="center">
   <a href="https://github.com/mrakmondal6612">
